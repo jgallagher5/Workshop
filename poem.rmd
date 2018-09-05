@@ -1,0 +1,67 @@
+---
+title: "git_01"
+author: "Math_116"
+date: "Fall semester"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+# Build a Poem with commits to different branches
+Our project will be done using a sequence of save and commits and branch actions.
+<!-- Do not modify or change any text in "!--" bracketed areas such as this --- these are instructions to
+you, if you change any of this the git program will notice it and compromise your git merging strategy !-->
+
+## First Verse 
+T'was brilig and the slithy toves   
+did gile and gimble in the wabe.   
+All mimsy were the boragoves   
+and the mome raths outgrabe.
+<!--Put the first five lines of a poem by Lewis Carrol in this section!-->
+
+## Second Verse
+Two roads diverged in a yellow wood,   
+And sorry I could not travel both   
+And be one traveler, long I stood   
+And looked down one as far as I could   
+To where it bent in the undergrowth;   
+<!--Put the first five lines of a poem by Robert Frost here!-->
+
+## Third Verse
+The sun was shining on the sea,   
+Shining with all his might:   
+He did his very best to make   
+The billows smooth and bright--   
+And this was odd, because it was
+The middle of the night.   
+
+The moon was shining sulkily,   
+Because she thought the sun   
+Had got no business to be there   
+After the day was done--
+"It's very rude of him," she said,   
+"To come and spoil the fun!"
+<!--Put the first two verses of The Walrus and the Carpenter here!-->
+
+## Last Verse
+Drink to me only with thine eyes,    
+         And I will pledge with mine;    
+Or leave a kiss but in the cup,    
+         And I’ll not look for wine.    
+The thirst that from the soul doth rise    
+         Doth ask a drink divine;    
+But might I of Jove’s nectar sup,    
+         I would not change for thine.    
+
+I sent thee late a rosy wreath,    
+         Not so much honouring thee    
+As giving it a hope, that there    
+         It could not withered be.    
+But thou thereon didst only breathe,    
+         And sent’st it back to me;    
+Since when it grows, and smells, I swear,    
+         Not of itself, but thee.   
+
+
+<!--Put a short poem of your choice 8-20 lines,here!-->
